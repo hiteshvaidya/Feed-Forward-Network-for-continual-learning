@@ -1,0 +1,9 @@
+numpy
+tensorflow
+tensorflow-datasets
+tqdm
+pandas
+argparse
+pickle
+idx3numpy
+scikit-learn
